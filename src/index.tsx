@@ -7,10 +7,10 @@ import { theme } from 'commons/style/theme';
 import GlobalStyle from 'commons/style/global-style';
 
 /* Context Providers */
-import { ProductsProvider } from 'contexts/products-context';
 import { CartProvider } from 'contexts/cart-context';
 
 import App from 'components/App';
+import { ProductsProvider } from 'contexts/products-context';
 
 const root = document.getElementById('root')!;
 const container = ReactDOMClient.createRoot(root);

@@ -5,114 +5,74 @@
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "id": 0,
-        "installments": 3,
-        "price": 10.9,
+        "price": 49.90,
         "sku": 8552515751438644,
         "title": "Pikachu"
       },
       {
-        "availableSizes": [
-          "X",
-          "ML",
-          "L"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "",
         "id": 11,
-        "installments": 3,
-        "price": 13.25,
+        "price": 49.90,
         "sku": 39876704341265610,
         "title": "Mew-two"
       },
       {
-        "availableSizes": [
-          "XL"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "14/15 s/nº - Jogador",
         "id": 4,
-        "installments": 12,
         "isFreeShipping": false,
-        "price": 25.9,
+        "price": 49.90,
         "sku": 9197907543445676,
         "title": "Bulbasaur"
       },
       {
-        "availableSizes": [
-          "M",
-          "ML"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "",
         "id": 13,
         "installments": 5,
-        "price": 29.45,
+        "price": 49.90,
         "sku": 51498472915966370,
         "title": "Lickitung"
       },
       {
-        "availableSizes": [
-          "S",
-          "XS"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "4 MSL",
         "id": 12,
-        "installments": 9,
-        "price": 10.9,
+        "price": 49.90,
         "sku": 12064273040195392,
-        "title": "Black Batman T-shirt"
+        "title": "Gengar"
       },
       {
-        "availableSizes": [
-          "X",
-          "L",
-          "XL"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "GPX Poly 1",
         "id": 14,
-        "installments": 3,
-        "price": 9,
+        "price": 49.90,
         "sku": 10686354557628304,
-        "title": "Blue T-Shirt"
+        "title": "Jigglypuff"
       },
       {
-        "availableSizes": [
-          "X",
-          "L",
-          "XL",
-          "XXL"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "Treino 2014",
         "id": 15,
-        "installments": 5,
-        "price": 14,
+        "price": 49.90,
         "sku": 11033926921508488,
-        "title": "Loose Black T-shirt"
+        "title": "Charmander"
       },
       {
-        "availableSizes": [
-          "X",
-          "L",
-          "XL",
-          "XXL"
-        ],
         "currencyFormat": "R$",
         "currencyId": "BRL",
         "description": "14/15 s/nº",
         "id": 1,
-        "installments": 9,
-        "price": 10.9,
+        "price": 49.90,
         "sku": 18644119330491310,
-        "title": "Ringer Hall Pass"
+        "title": "Espeon"
       }
     ]
   }

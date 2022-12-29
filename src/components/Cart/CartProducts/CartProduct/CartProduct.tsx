@@ -18,7 +18,6 @@ const CartProduct = ({ product }: IProps) => {
     style,
     currencyId,
     currencyFormat,
-    availableSizes,
     quantity,
   } = product;
 
@@ -39,7 +38,7 @@ const CartProduct = ({ product }: IProps) => {
       <S.Details>
         <S.Title>{title}</S.Title>
         <S.Desc>
-          {`${availableSizes[0]} | ${style}`} <br />
+          {`${style}`} <br />
           Quantidade: {quantity}
         </S.Desc>
       </S.Details>

@@ -1,11 +1,10 @@
 import { useEffect } from 'react';
 import Products from 'components/Products';
 import Cart from 'components/Cart';
-
-import { useProducts } from 'contexts/products-context';
-
 import * as S from './style';
 import Loader from 'components/Loader/Loader';
+import { useProducts } from 'contexts/products-context';
+
 
 function App() {
   const { isFetching, products, fetchProducts } = useProducts();
@@ -17,7 +16,7 @@ function App() {
   return (
     <S.Container>
       {isFetching && <Loader />}
-      
+
       <S.TwoColumnGrid>
         <S.Side>
         </S.Side>
